@@ -4,3 +4,5 @@
   - name: Task1 
     ansible.builtin.debug:
      msg: 'Hello Task1 completed'
+
+    
