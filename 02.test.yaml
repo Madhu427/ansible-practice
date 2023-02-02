@@ -5,4 +5,5 @@
   tasks:
     - name: execute command date
       command: date
+    - name: execute script on the server  
       script: test_script.sh   
